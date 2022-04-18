@@ -5,7 +5,7 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/IMG-20220418-WA0451.jpg" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/IMG-20220418-WA0453.jpg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
