@@ -5,7 +5,7 @@
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/v9nzy97.png" width="300" height="300"/>
+  <img border-radius: 15px src="https://i.imgur.com/rudhra.jpg" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title="UNNI EFX" src="https://img.shields.io/badge/Rudhra-lime?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
